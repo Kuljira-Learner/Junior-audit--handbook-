@@ -1,23 +1,37 @@
 # Audit Process
 
-## Overview
+## ความหมาย
 
-The audit process is a systematic approach performed by independent auditors to obtain sufficient and appropriate audit evidence. The objective is to express an opinion on whether the financial statements are prepared, in all material respects, in accordance with the applicable financial reporting framework.
-
-Understanding the audit process helps junior auditors recognize how each audit procedure contributes to the overall audit opinion.
+Audit Process คือ กระบวนการตรวจสอบงบการเงินอย่างเป็นระบบ เพื่อรวบรวมหลักฐานที่เพียงพอและเหมาะสม ก่อนแสดงความเห็นต่องบการเงิน
 
 ---
 
-# Audit Process Flow
+## วัตถุประสงค์
 
-```
-Client Acceptance
-        │
-        ▼
-Understand the Business
-        │
-        ▼
-Risk Assessment
+- ตรวจสอบความถูกต้องของงบการเงิน
+- ระบุความเสี่ยงที่อาจเกิดขึ้น
+- รวบรวมหลักฐานเพื่อสนับสนุนความเห็นของผู้สอบบัญชี
+
+---
+
+## ขั้นตอน
+
+1. รับงานตรวจสอบ
+2. ศึกษาธุรกิจของลูกค้า
+3. ประเมินความเสี่ยง
+4. กำหนด Materiality
+5. วางแผนการตรวจสอบ
+6. ทดสอบการควบคุมภายใน
+7. ตรวจสอบรายละเอียด
+8. สรุปผลและออกรายงาน
+
+---
+
+## สิ่งที่ควรจำ
+
+- เข้าใจธุรกิจก่อนเริ่มตรวจ
+- ความเสี่ยงเป็นตัวกำหนดแผนการตรวจสอบ
+- หลักฐานต้องเพียงพอและเหมาะสมRisk Assessment
         │
         ▼
 Determine Materiality
