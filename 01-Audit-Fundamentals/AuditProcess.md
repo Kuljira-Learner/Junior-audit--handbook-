@@ -40,34 +40,6 @@ Complete Working Papers
         ▼
 Issue Audit Report
 ```
-รับงานตรวจสอบ (Client Acceptance)
-        │
-        ▼
-ศึกษาธุรกิจของลูกค้า (Understand the Business)
-        │
-        ▼
-ประเมินความเสี่ยง (Risk Assessment)
-        │
-        ▼
-กำหนด Materiality
-        │
-        ▼
-วางแผนการตรวจสอบ (Audit Planning)
-        │
-        ▼
-ทดสอบการควบคุมภายใน (Test of Controls)
-        │
-        ▼
-ตรวจสอบรายละเอียด (Substantive Testing)
-        │
-        ▼
-ประเมินหลักฐานการตรวจสอบ (Evaluate Audit Evidence)
-        │
-        ▼
-สรุปงานและจัดทำ Working Papers
-        │
-        ▼
-ออกรายงานผู้สอบบัญชี (Audit Report)
 ---
 
 # 1. Client Acceptance
