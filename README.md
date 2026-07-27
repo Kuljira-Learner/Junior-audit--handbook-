@@ -1,1 +1,2 @@
-# Junior-audit--handbook-
+# Junior-audit-handbook-
+Goal : To review the accounting knowledge 
